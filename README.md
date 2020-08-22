@@ -1,1 +1,1 @@
-Linked list implementation in python including insertion, deletion and other methods.
+Singly and Doubly Linked list implementations in python including insertion, deletion and other methods.
